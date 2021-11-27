@@ -1,6 +1,8 @@
-### Hi there 👋
+![](https://cdn.discordapp.com/attachments/711225037738213446/914101043892219904/mona-whisper.gif)
 
 <!--
+### Hi there 👋
+
 **Kqpa/kqpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
