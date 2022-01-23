@@ -1,5 +1,9 @@
+<div align="center">
+
 ![](https://cdn.discordapp.com/attachments/711225037738213446/914101043892219904/mona-whisper.gif)
 
+</div>
+  
 <!--
 ### Hi there 👋
 
