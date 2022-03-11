@@ -1,6 +1,10 @@
 <div align="center">
 
+### **404 — Lost your way?**
+
 ![](https://cdn.discordapp.com/attachments/711225037738213446/939511902147592202/mona-loading-dark.gif)
+  
+##### <em>Contact Support • [Kqpa#0001](https://discord.com/users/419181431512891413) • [@epicmanborax](https://twitter.com/@epicmanborax)</em>
 
 </div>
   
