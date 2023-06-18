@@ -1,6 +1,6 @@
 <div align="center">
 
-#### <em> [dc](https://discord.com/users/419181431512891413) • [tw](https://twitter.com/@epicmanborax)</em>
+#### <em> [web](https://kqpa.me) • [dc](https://discord.com/users/419181431512891413) • [tw](https://twitter.com/@epicmanborax)</em>
 
 </div>
   
