@@ -1,10 +1,8 @@
 <div align="center">
 
-### **418 — I'm a Teapot**
 
-![](https://cdn.discordapp.com/attachments/711225037738213446/939511902147592202/mona-loading-dark.gif)
 
-##### <em>Contact Support • [Kqpa#0001](https://discord.com/users/419181431512891413) • [@epicmanborax](https://twitter.com/@epicmanborax)</em>
+##### <em> [dc](https://discord.com/users/419181431512891413) • [tw](https://twitter.com/@epicmanborax)</em>
 
 </div>
   
